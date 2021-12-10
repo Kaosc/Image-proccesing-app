@@ -12,6 +12,7 @@
 * Converting Binary
 * Dilation
 * Erosion
+* R,G,B Adjustments
 
 ## Screenshot
 
