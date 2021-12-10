@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projects\\VSProjects\\ImageProcessingApp\\ImageProcessingApp\\ImageProcessingApp.csproj": {}
+  },
+  "projects": {
+    "E:\\Projects\\VSProjects\\ImageProcessingApp\\ImageProcessingApp\\ImageProcessingApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\VSProjects\\ImageProcessingApp\\ImageProcessingApp\\ImageProcessingApp.csproj",
+        "projectName": "Kaosc",
+        "projectPath": "E:\\Projects\\VSProjects\\ImageProcessingApp\\ImageProcessingApp\\ImageProcessingApp.csproj",
+        "packagesPath": "C:\\Users\\Kaosc\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\VSProjects\\ImageProcessingApp\\ImageProcessingApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Kaosc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "AForge.Imaging": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Emgu.CV": {
+              "target": "Package",
+              "version": "[4.5.4.4788, )"
+            },
+            "Emgu.CV.Bitmap": {
+              "target": "Package",
+              "version": "[4.5.4.4788, )"
+            },
+            "Emgu.CV.UI": {
+              "target": "Package",
+              "version": "[4.5.4.4788, )"
+            },
+            "Emgu.CV.runtime.windows": {
+              "target": "Package",
+              "version": "[4.5.4.4788, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
