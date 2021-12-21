@@ -39,6 +39,7 @@ namespace ImageProcessingApp
                 ImageFile = (Image)sourceImage.Clone();
                 pictureBox1.Image = ImageFile;
                 isImageOpened = true;
+                backupCount = 0;
                 Backup();
             }
         }
