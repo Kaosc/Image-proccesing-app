@@ -16,4 +16,4 @@
 
 ## Screenshot
 
-![This is a alt text.](https://i.ibb.co/nRCHLKf/Ekran-g-r-nt-s-2021-12-10-195325.png "This is a sample image.")
+![ss](./assets/ss.png)
